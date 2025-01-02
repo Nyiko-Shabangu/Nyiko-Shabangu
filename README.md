@@ -1,9 +1,27 @@
 # Nyiko Shabangu 👨‍💻
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=dark" alt="Top Languages" />
 
-  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nyiko-shabangu&&show_icons=true&theme=dark
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyiko-shabangu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <!-- Most Used Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=dark"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nyiko-shabangu&theme=dark"/>
+  
+  <!-- GitHub Activity Graph -->
+  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=nyiko-shabangu&theme=github-dark"/>
+  
+  <!-- Profile Trophy -->
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=nyiko-shabangu&theme=darkhub&no-frame=true&margin-w=15"/>
+</div>
 
+<!-- Profile Views Counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nyiko-shabangu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
 
 
 
