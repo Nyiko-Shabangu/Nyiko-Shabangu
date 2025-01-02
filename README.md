@@ -4,6 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyikoshabangu&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
+
+
 > Full-Stack Developer | Transforming Data into Actionable Insights
 
 
@@ -22,13 +24,13 @@ Aspiring Data Scientist and Web Developer passionate about transforming complex 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-**Frameworks & Platforms**
+## Frameworks & Platforms
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-006E9C?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-**Cloud & Infrastructure**
+## Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -57,7 +59,7 @@ Aspiring Data Scientist and Web Developer passionate about transforming complex 
 
 ## 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyiko-shabangu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iam redoig this.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iamredoigthis.com)
 
 
 *Always learning, always growing!* 🚀
