@@ -11,8 +11,7 @@
   <!-- GitHub Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nyiko-shabangu&theme=dark"/>
   
-  <!-- GitHub Activity Graph -->
-  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=nyiko-shabangu&theme=github-dark"/>
+
   
   <!-- Profile Trophy -->
   <img width="98%" src="https://github-profile-trophy.vercel.app/?username=nyiko-shabangu&theme=darkhub&no-frame=true&margin-w=15"/>
