@@ -2,6 +2,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=dark" alt="Top Languages" />
 
+  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nyiko-shabangu&&show_icons=true&theme=dark
+
 
 
 
