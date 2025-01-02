@@ -8,11 +8,7 @@
   <!-- Most Used Languages Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=dark"/>
   
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nyiko-shabangu&theme=dark"/>
-  
 
-  
   <!-- Profile Trophy -->
   <img width="98%" src="https://github-profile-trophy.vercel.app/?username=nyiko-shabangu&theme=darkhub&no-frame=true&margin-w=15"/>
 </div>
