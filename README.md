@@ -36,12 +36,12 @@ Aspiring Data Scientist and Web Developer passionate about transforming complex 
 ### 1. License Plate Blur - Android Privacy Protection App
 - **Technologies**: Kotlin, Google ML Kit, Android Bitmap API
 - Designed an Android app to detect and blur South African license plates
-- [View Project](https://github.com/nyikoshabangu/license-plate-blur-app)
+- [View Project](https://github.com/Nyiko-Shabangu/PlateBlur)
 
 ### 2. Mood Analyzer Using Spotify API
 - **Technologies**: Python, RESTful API, Pandas, Matplotlib
 - Built a tool to predict user mood trends by analyzing music data
-- [View Project](https://github.com/nyikoshabangu/mood-analyzer)
+- [View Project](https://github.com/Nyiko-Shabangu/Mood-Analyser)
 
 ### 3. Customer Churn Prediction
 - **Technologies**: Python, scikit-learn, Pandas, Matplotlib
