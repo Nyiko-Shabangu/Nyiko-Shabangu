@@ -1,7 +1,7 @@
 # Nyiko Shabangu 👨‍💻
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyikos-habangu&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 
