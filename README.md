@@ -1,25 +1,6 @@
 # Nyiko Shabangu 👨‍💻
 
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyiko-shabangu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-  <!-- Most Used Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=dark"/>
-  
-
-  <!-- Profile Trophy -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=nyiko-shabangu&theme=darkhub&no-frame=true&margin-w=15"/>
-</div>
-
-<!-- Profile Views Counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nyiko-shabangu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
-
-
-
 > Full-Stack Developer | Transforming Data into Actionable Insights
 
 
@@ -70,6 +51,29 @@ Aspiring Data Scientist and Web Developer passionate about transforming complex 
 ## 🏆 Certifications
 - AWS Cloud Practitioner
 - AWS Solution Architect (In Progress)
+
+## Stats 🔢
+
+
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyiko-shabangu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <!-- Most Used Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=dark"/>
+  
+
+  <!-- Profile Trophy -->
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=nyiko-shabangu&theme=darkhub&no-frame=true&margin-w=15"/>
+</div>
+
+<!-- Profile Views Counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nyiko-shabangu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
+
+
+
 
 ## 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyiko-shabangu)
