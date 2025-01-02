@@ -46,7 +46,7 @@ Aspiring Data Scientist and Web Developer passionate about transforming complex 
 ### 3. Customer Churn Prediction
 - **Technologies**: Python, scikit-learn, Pandas, Matplotlib
 - Developed a machine learning model to predict customer churn
-- [View Project](https://github.com/nyikoshabangu/churn-prediction)
+- [View Project](https://github.com/Nyiko-Shabangu/Churn-Prediction-Project)
 
 ## 🏆 Certifications
 - AWS Cloud Practitioner
