@@ -52,7 +52,7 @@ Aspiring Data Scientist and Web Developer passionate about transforming complex 
 - AWS Cloud Practitioner
 - AWS Solution Architect (In Progress)
 
-## Stats 🔢
+## 🔢 Stats.
 
 
 <div align="center">
