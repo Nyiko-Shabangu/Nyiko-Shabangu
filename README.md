@@ -54,25 +54,16 @@ A problem solver and Web Developer passionate about transforming complex data in
 
 ## 🔢 Stats.
 
-
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyiko-shabangu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-  <!-- Most Used Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=dark"/>
-  
-
-  <!-- Profile Trophy -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=nyiko-shabangu&theme=darkhub&no-frame=true&margin-w=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyiko-shabangu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=tokyonight"/>
 </div>
-
-<!-- Profile Views Counter -->
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=nyiko-shabangu&theme=nord&no-frame=true&margin-w=15&column=7"/>
+</div>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nyiko-shabangu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
-
-
 
 ## 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyiko-shabangu)
