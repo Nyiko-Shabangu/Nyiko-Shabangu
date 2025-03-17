@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-Aspiring Data Scientist and Web Developer passionate about transforming complex data into meaningful insights. Currently completing a Bachelor's in Computer and Information Sciences, I bring 3 years of experience in web development, auction management, and technical innovation.
+A problem solver and Web Developer passionate about transforming complex data into meaningful insights. Currently completing a Bachelor's in Computer and Information Sciences, I bring 3 years of experience in web development, auction management, and technical innovation.
 
 ## 🚀 Technical Skills
 ### Programming Languages
