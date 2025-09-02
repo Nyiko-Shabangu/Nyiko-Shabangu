@@ -38,19 +38,36 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AI-DEV-Nyiko&show_icons=true&theme=radical" alt="stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AI-DEV-Nyiko&theme=radical" alt="streak" height="160" />
-</p>
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyiko-shabangu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyiko-shabangu&layout=compact&theme=radical"/>
+</div>  
 
 ---
 
-### 🌟 Featured Projects
-- 🔹 [Smart Invoice & Quoting System](https://github.com/AI-DEV-Nyiko) – MERN + AWS  
-- 🔹 [Auction Lot Cataloguing App](https://github.com/AI-DEV-Nyiko) – Android (Kotlin + Firebase)  
-- 🔹 [Event Recommendation AI](https://github.com/AI-DEV-Nyiko) – C# Neural Network  
-- 🔹 [Mood Analysis with Spotify API](https://github.com/AI-DEV-Nyiko) – Python + ML  
+## 🌟 Featured Projects  
+
+### 🔹 [PlateBlur – Android Privacy Protection App](https://github.com/Nyiko-Shabangu/PlateBlur)  
+*Technologies: Kotlin, Google ML Kit, Android Bitmap API*  
+- Detects and blurs South African number plates in photos.  
+
+### 🔹 [Mood Analyzer – Spotify API](https://github.com/Nyiko-Shabangu/Mood-Analyser)  
+*Technologies: Python, Pandas, Matplotlib*  
+- Predicts mood trends by analyzing Spotify listening data.  
+
+### 🔹 [Customer Churn Prediction](https://github.com/Nyiko-Shabangu/Churn-Prediction-Project)  
+*Technologies: Python, scikit-learn, Pandas*  
+- ML model to predict customer churn from banking data.  
+
+### 🔹 [Municipal Services App](https://github.com/Nyiko-Shabangu/Municipal-Services-App)  
+*Technologies: C#, .NET Framework*  
+- Citizens can report issues, track services, and access local events.  
+
+### 🔹 [CI/CD Payments Portal](https://github.com/Nyiko-Shabangu/Payments-Portal)  
+*Technologies: GitHub Actions, CircleCI, Docker, SonarQube*  
+- Automated testing, builds, deployments, and code quality checks.  
 
 ---
 
