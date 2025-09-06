@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-- 💼 **Junior Solutions Developer at GotBot (Conversational AI)**  
+- 💼 **Solutions Developer at GotBot (Conversational AI)**  
 - ☁️ **AWS Certified Cloud Practitioner** | Preparing for **AWS Solutions Architect**  
 - 🤖 Passionate about **AI, ML, and building intelligent systems**  
 - 🔭 Projects include:  
