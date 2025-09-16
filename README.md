@@ -81,5 +81,4 @@
 👀 Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nyiko-shabangu&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://visitcount.itsvg.in/api?id=nyiko-shabangu&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visit Count" />
 </p>
