@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nyiko Shabangu</h1>
-<h3 align="center">Software Engineer | AI Developer | Cloud Enthusiast</h3>
+<h3 align="center">Software Engineer | AI Developer | AWS Cloud Certified  </h3>
 
 ---
 
 <p align="center">
   <a href="https://nyikoportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/AI-DEV-Nyiko">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/nyiko-shabangu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -80,3 +77,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+https://komarev.com/ghpvc/?username=yourusername&repo=yourreponame&color=blue
+https://visitor-badge.glitch.me/badge?page_id=yourusername.yourreponame
