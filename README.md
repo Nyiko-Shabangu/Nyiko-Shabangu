@@ -68,7 +68,7 @@
 
 ---
 
-### 📫 Let’s Connect
+📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/nyiko-shabangu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -77,6 +77,8 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-https://komarev.com/ghpvc/?username=yourusername&repo=yourreponame&color=blue
-https://visitor-badge.glitch.me/badge?page_id=yourusername.yourreponame
+👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nyiko-shabangu&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nyiko-shabangu.nyiko-shabangu&style=for-the-badge" alt="Visitors" />
+</p>
