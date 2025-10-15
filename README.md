@@ -7,7 +7,7 @@
   <a href="https://www.nyiko.co.za/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/nyiko-shabangu/">
+  <a href="https://www.linkedin.com/in/nyikoshabangu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
