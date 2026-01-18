@@ -29,7 +29,7 @@
 
 <img align="right" src="https://github.com/Nyiko-Shabangu/Nyiko-Shabangu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="30%" />
 
-- 📍 Based in **Centurion, South Africa**
+- 📍 Based in ** South Africa**
 - 💼 Currently: **AI Solutions Developer at GotBot**
 - ☁️ **AWS Certified Cloud Practitioner** | Pursuing **AWS Solutions Architect Associate**
 - 🤖 Specialized in **RAG architectures, Multi-Agent Systems, and NLP**
