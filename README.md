@@ -236,14 +236,18 @@
 
 ---
 
+<div align="center">
+
 ## 🏆 Impact & Achievements
 
 | Metric | Achievement |
-| :--- | :--- |
+| :---: | :--- |
 | **58%** | Reduction in NLP fallback rates via intent restructuring. |
 | **30%** | Increase in auction attendance via data-driven marketing. |
 | **R40k** | Saved by identifying and preventing a cybersecurity redirect attack. |
 | **98%** | Accuracy maintained in RLHF evaluations for AI Model training. |
+
+</div>
 
 ---
 
