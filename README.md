@@ -18,7 +18,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="https://www.nyiko.co.za/">Nyiko Shabangu</a>!
+  Hi, I'm <a href="https://www.nyiko.co.za/">Nyiko Shabangu </a>!
 </h1>
 
 <div align="center">
@@ -281,13 +281,6 @@
 - 🔍 **SEO Enthusiast** - Increased web traffic by 3000% for auction clients
 - 🎯 **Problem Solver** - From preventing cyber attacks to optimizing ML models
 
----
-
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nyiko-Shabangu&color=blueviolet&style=for-the-badge)
-
----
 
 <div align="center">
 
