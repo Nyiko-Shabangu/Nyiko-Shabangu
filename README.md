@@ -257,9 +257,9 @@
 
 ## 🎓 Certifications
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/your-badge-link)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/ba7bdb10-fa56-441f-aa6b-ed4fcc652551/public_url)
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_(In_Progress)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-[![Explore AI Data Analytics](https://img.shields.io/badge/Explore_AI-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.yourlink.com)
+[![Explore AI Data Analytics](https://img.shields.io/badge/Explore_AI-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://savanna.alxafrica.com/certificates/hfGMzY2ZrB)
 
 ---
 
